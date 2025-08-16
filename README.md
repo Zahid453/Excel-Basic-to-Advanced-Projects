@@ -50,16 +50,30 @@ During these projects, I made use of:
 ### 🔹 Project 2 — 10 Advanced & Tricky Charts  
 *Sample chart outputs:*  
 
-<img src="Output/Project%202/1.png" width="400"/>  
-<img src="Output/Project%202/2.png" width="400"/>  
-<img src="Output/Project%202/3.png" width="400"/>  
-<img src="Output/Project%202/5.png" width="400"/>  
-<img src="Output/Project%202/6.png" width="400"/>  
-<img src="Output/Project%202/7.png" width="400"/>  
-<img src="Output/Project%202/8.png" width="400"/>  
-<img src="Output/Project%202/9.png" width="400"/>  
-<img src="Output/Project%202/10.png" width="400"/>  
-<img src="Output/Project%202/11.png" width="400"/>  
+<p align="center">
+  <img src="Output/Project%202/1.png" width="400"/>
+  <img src="Output/Project%202/2.png" width="400"/>
+</p>
+
+<p align="center">
+  <img src="Output/Project%202/3.png" width="400"/>
+  <img src="Output/Project%202/5.png" width="400"/>
+</p>
+
+<p align="center">
+  <img src="Output/Project%202/6.png" width="400"/>
+  <img src="Output/Project%202/7.png" width="400"/>
+</p>
+
+<p align="center">
+  <img src="Output/Project%202/8.png" width="400"/>
+  <img src="Output/Project%202/9.png" width="400"/>
+</p>
+
+<p align="center">
+  <img src="Output/Project%202/10.png" width="400"/>
+  <img src="Output/Project%202/11.png" width="400"/>
+</p>
 
 ---
 
@@ -85,6 +99,17 @@ During these projects, I made use of:
   <img src="Output/Project%205%20--%20Salesmans.png" width="600"/>  
 
 - **Customized (Zahid Shaikh)**  
-  <img src="Output/Project%205%20--%20Zahid%20Shaikh.png" width="600"/>  
+  <img src="Output/Project%205%20--%20Zahid%20Shaikh.png" width="600"/>
+
+---
+
+## 👤 Author
+**Zahid Shaikh**  
+- LinkedIn: [https://www.linkedin.com/in/skzahid90281/](https://www.linkedin.com/in/skzahid90281/)
+
+---
+
+
+  
 
 ---
