@@ -108,8 +108,3 @@ During these projects, I made use of:
 - LinkedIn: [https://www.linkedin.com/in/skzahid90281/](https://www.linkedin.com/in/skzahid90281/)
 
 ---
-
-
-  
-
----
