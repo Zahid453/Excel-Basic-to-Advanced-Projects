@@ -47,6 +47,11 @@ During these projects, I made use of:
 
 ## 📊 Outputs  
 
+### 🔹 Project 1 — Employ Payroll System
+<img src="Output/Project%201.png" width="600"/> 
+
+---
+
 ### 🔹 Project 2 — 10 Advanced & Tricky Charts  
 *Sample chart outputs:*  
 
